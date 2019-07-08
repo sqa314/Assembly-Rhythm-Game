@@ -7,35 +7,21 @@
 > #제작자 : 이창훈, 구병조<br>
 > #제작 기간 : 1달<br>
 > #제작 언어 : 어셈블리어 (PIC 마이컴)<br>
-> #제작 플랫폼 : PIC16F876A<br>
+> #개발 플랫폼 : MPLAB_IDE_8_83<br>
+> #기반 기종 : PIC16F876A<br>
 > #사용된 헤더 : P16F876A.inc<br>
 
 ## Display
-    DISP
+<pre><code>DISP
 	INCF	INC,F
 	BTFSS	INC,2
 	GOTO	DISPA
 	GOTO	DISPB
-    DISPA
+DISPA
 	BTFSS	INC,1
 	GOTO	DISPAA
 	GOTO	DISPAB
-DISPB
-	BTFSS	INC,1
-	GOTO	DISPBA
-	GOTO	DISPBB
-DISPAA
-	BTFSS	INC,0
-	GOTO	DISP1
-	GOTO	DISPLED
-DISPAB
-	BTFSS	INC,0
-	GOTO	DISP2
-	GOTO	DISPLED
-DISPBA
-	BTFSS	INC,0
-	GOTO	DISP3
-	GOTO	DISPLED
+
 DISPBB
 	BTFSS	INC,0
 	GOTO	DISP4
@@ -76,4 +62,6 @@ DISP1
 	BTFSC	ER,4
 	CALL	FF
 	BCF	PORTA,3
-	RETURN
+	RETURN</code></pre>
+키트의 회로상 7Seg의 
+
