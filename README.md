@@ -248,7 +248,7 @@ DOWN
 	BTFSC	NOTEC,1
 	CALL	RANDOM3
 	BCF	NOTEC,1
-	RETURN</code></pre>
+	RETURN
 RANDOM3
 	BCF PORTA,4
 	BCF	NOTEA,6
@@ -270,3 +270,4 @@ SB
 <pre><code>S2	;양쪽 버튼 동시에 누름
 	CLRF INT_CNT
 	RETURN</code></pre>
+인터럽트 횟수를 0으로 고정해서 노트 이동 방
