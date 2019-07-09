@@ -1,4 +1,5 @@
 # Assembly-Rhythm-Game
+# [상세 보고서](https://github.com/sqa314/Assembly-Rhythm-Game/blob/master/Project%20Report.pdf) 
 ## 1.개요
 [![Video Label](http://img.youtube.com/vi/fmd-7fw2pIU/0.jpg)](https://youtu.be/fmd-7fw2pIU) <br>
 이미지을 클릭하시면 영상으로 이동합니다.<br>
@@ -10,8 +11,6 @@
 > #개발 플랫폼 : MPLAB_IDE_8_83<br>
 > #기반 기종 : PIC16F876A<br>
 > #사용된 헤더 : P16F876A.inc<br>
-
-# ![download this](./Project Report.pdf) 
 
 ## 2.코드 분석
 ### 2.1 Interupt
