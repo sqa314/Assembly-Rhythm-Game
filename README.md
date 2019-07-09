@@ -10,7 +10,9 @@
 > #개발 플랫폼 : MPLAB_IDE_8_83<br>
 > #기반 기종 : PIC16F876A<br>
 > #사용된 헤더 : P16F876A.inc<br>
-상세 보고서 : 
+
+# ![download this](./Project Report.pdf) 
+
 ## 2.코드 분석
 ### 2.1 Interupt
 <pre><code>GOTO	START_UP
