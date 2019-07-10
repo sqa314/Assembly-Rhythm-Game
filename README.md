@@ -3,6 +3,7 @@
 ## 1.개요
 [![Video Label](http://img.youtube.com/vi/hzSWjduxiwY/0.jpg)](https://youtu.be/hzSWjduxiwY) <br>
 이미지을 클릭하시면 영상으로 이동합니다.<br>
+시청 시 자막을 켜주세요<br>
 > #게임 이름 : 완벽한 걸로<br>
 > #피아노 타일 모작<br>
 > #제작자 : 이창훈, 구병조<br>
