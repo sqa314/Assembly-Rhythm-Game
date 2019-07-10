@@ -1,7 +1,7 @@
 # Assembly-Rhythm-Game
 # [상세 보고서](https://github.com/sqa314/Assembly-Rhythm-Game/blob/master/Project%20Report.pdf) 
 ## 1.개요
-[![Video Label](http://img.youtube.com/vi/fmd-7fw2pIU/0.jpg)](https://youtu.be/fmd-7fw2pIU) <br>
+[![Video Label](http://img.youtube.com/vi/hzSWjduxiwY/0.jpg)](https://youtu.be/hzSWjduxiwY) <br>
 이미지을 클릭하시면 영상으로 이동합니다.<br>
 > #게임 이름 : 완벽한 걸로<br>
 > #피아노 타일 모작<br>
